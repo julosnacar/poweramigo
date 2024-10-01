@@ -1,5 +1,6 @@
 import json
 import pymysql
+from decimal import *
 #valores de configuracion
 endpoint = 'amigodb.cnmk2mw6km6u.ap-southeast-2.rds.amazonaws.com'
 username = 'amigo'
